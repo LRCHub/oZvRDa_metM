@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Don't Wanna Cry(울고 싶지 않아)",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2026-01-13T23:47:06.852481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Wanna Cry(울고 싶지 않아)",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/01_Don't_Wanna_Cry(울고_싶지_않아)_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Wanna Cry(울고 싶지 않아)",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/02_Don't_Wanna_Cry(울고_싶지_않아)_SEVENTEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Cry",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Wanna_Cry_SEVENTEEN.txt"
+    }
+  ]
+}
